@@ -1,8 +1,4 @@
 ### Hi there 👋, I am Shivaprasad Patil.
-
-<!--
-**shivaprasad-patil/shivaprasad-patil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a computational biologist with expertise in Genomics and Machine learning. I use Python and R for analysing genomic and clinical data to identify people most at risk of disease.
 
 •	 💻 Currently working on machine learning methods to  identify biomarkers for individualised radiotherapy from transcriptomic data and clinical data. 
