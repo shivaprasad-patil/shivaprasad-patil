@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Shivaprasad Patil.
 I am a computational biologist with expertise in Genomics and Machine learning. I use Python and R for analysing genomic and clinical data to identify people most at risk of disease.
 
-•	 💻 Currently working on machine learning methods to  identify biomarkers for individualised cancer te=reatments from transcriptomic data and clinical data. 
+•	 💻 Currently working on machine learning methods to  identify biomarkers for individualised cancer treatments from transcriptomic data and clinical data. 
 •	 👨 Currently growing my skillset in Machine Learning and Genomic Data Science.
 
 My Reseach Interests:
