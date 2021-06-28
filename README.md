@@ -14,5 +14,5 @@ I am open to:
 •	 any collobration work,
 •	 machine learning projects related to disease genomics
 
-- 📫 How to reach me: Send me an email, I will respond quickly.
+- 📫 How to reach me: Send me an email.
 
