@@ -29,6 +29,6 @@ I am passionate about advancing drug discovery and precision medicine. With over
 
 My capabilities extend to data integration, statistical analysis, biological modeling, and the implementation of innovative computational solutions to address complex scientific challenges.
 
-Let's collaborate to advance drug discovery, unravel the intricacies of disease biology, and drive scientific excellence. Feel free to reach out to me at shivaprasad309319@gmail.com.
-- 📫 How to reach me: Send me an email.
+Let's collaborate to advance drug discovery, unravel the intricacies of disease biology, and drive scientific excellence. 
+
 
