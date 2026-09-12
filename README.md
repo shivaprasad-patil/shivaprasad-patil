@@ -1,4 +1,4 @@
-### Hi there 👋, I am Shivaprasad Patil. Associate Director, Bioinformatics Predictive AI. 
+### Hi there 👋, I am Shivaprasad Patil.
 
 I am passionate about advancing drug discovery and precision medicine. With over 9+ years of experience in harnessing the power of clinical and genomics data through cutting-edge AI and computational techniques. My expertise is multi-omics data integration from clinical trials and model systems (Genomics: Bulk, Single-cell, Spatial, Imaging: Cell Painting, Immunofluorescence and Clinical: Health records, Disease registries, Immunohistochemistry etc.) for biomarker discovery. I thrive in collaborative environments to drive projects forward in the drug development pipeline.
 
