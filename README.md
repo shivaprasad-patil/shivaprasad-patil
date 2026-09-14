@@ -1,34 +1,30 @@
 ### Hi there 👋, I am Shivaprasad Patil.
 
-I am passionate about advancing drug discovery and precision medicine. With over 9+ years of experience in harnessing the power of clinical and genomics data through cutting-edge AI and computational techniques. My expertise is multi-omics data integration from clinical trials and model systems (Genomics: Bulk, Single-cell, Spatial, Imaging: Cell Painting, Immunofluorescence and Clinical: Health records, Disease registries, Immunohistochemistry etc.) for biomarker discovery. I thrive in collaborative environments to drive projects forward in the drug development pipeline.
+I am a computational biologist and bioinformatics leader with over a decade of experience applying statistics, machine learning, artificial intelligence, and scalable data engineering to drug discovery and precision medicine.
 
-🌟 Key Highlights:
+My work focuses on connecting patient-derived molecular data, experimental models, and computational methods to support precision-oncology research and translational decision-making.
 
-• 🧬 I specialize in translating complex multi-omics data from clinical studies and model systems into actionable insights that impact the drug discovery pipeline.
+🧬 Scientific and technical focus
 
-• 🚀 My expertise spans the entire drug development spectrum, from multi-omics characterization of 
-   disease phenotypes to biomarker discovery and understanding mechanisms of response.
+- Multi-omics integration: Bulk and single-cell transcriptomics, spatial genomics, proteomics, imaging, clinical data, and experimental model systems
+- Precision oncology: Disease stratification, target identification, biomarker discovery, therapeutic response, and translational research
+- Predictive modeling: Statistical learning, classical machine learning, deep learning, multimodal modeling, and representation learning
+- AI for biology: Transformers, biological foundation models, generative AI, knowledge graphs, RAG, and agentic systems
+- Biomedical imaging: Cell Painting, immunofluorescence, immunohistochemistry, and integration of image-derived phenotypes with molecular data
+- Clinical analytics: Clinical-trial data, health records, disease registries, biomarker evaluation, data integrity, and regulated analytical environments
+- Computational engineering: Reproducible pipelines, modular analytical workflows, high-throughput data processing, testing, documentation, and scalable deployment
 
-• 🔍Target Identification: Seeking the elusive targets—the molecular keys that unlock mysteries of  
-    Cancer, Alzheimer's and SLE by integrating multi-omics data, to pinpoint molecular subtypes, predict disease progression, and tailor personalized treatments. 🎯💡
+🤖 Current interests
 
-• 📊 I excel in clinical trial data analysis and am well-versed in working within regulatory environments, 
-   ensuring data integrity and compliance.
+I actively explore how emerging AI methods can improve biological reasoning and scientific decision-making, including:
 
-• 🌐 Collaborating across diverse teams, both internally and with external partners, is my forte. I believe 
-   in fostering a collaborative spirit to achieve project success.
+- Multimodal and multi-omics foundation models
+- LLM-assisted biological analysis
+- Knowledge graphs and graph-based retrieval
+- AI agents for reproducible scientific workflows
+- Perturbation and virtual-cell modeling
+- Explainable and uncertainty-aware predictive systems
 
-• 📢 Effective communication is at the core of my work. I take pride in presenting complex analysis 
-   findings with scientific rigor to key stakeholders in a timely manner.
+My GitHub projects are implementation-focused explorations of these ideas, with an emphasis on understanding model architecture, biological assumptions, reproducibility, and practical application.
 
-• 🧪 I have a proven track record of leadership, overseeing and organizing teams to deliver decision- 
-   driving data.
-
-• 📈 Additionally, I actively contribute to cultivating a strong scientific culture by implementing state-of- 
-   the-art technologies and models within my department.
-
-My capabilities extend to data integration, statistical analysis, biological modeling, and the implementation of innovative computational solutions to address complex scientific challenges.
-
-Let's collaborate to advance drug discovery, unravel the intricacies of disease biology, and drive scientific excellence. 
-
-
+I am always interested in thoughtful conversations about computational biology, AI-enabled drug discovery, multi-omics, and precision medicine.
